@@ -31,7 +31,7 @@ You can find the Powershell script I run in this project [here.](https://github.
 
 <p align="center">
 To start, log into client-1 as the domain admin (jane_admin), using Remote Desktop Connection: <br/>
-<img src="file:///Users/angel/Desktop/Screenshot-1-Group-Policy%20.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="file:///Users/angel/Desktop/Screenshot-1-Group-Policy%20.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 I want to allow Remote Desktop for non-administrative users. So, right-click on the start button > System > on the right-side click "Remote Desktop" > "Select users that can remotely access this PC": <br/>
