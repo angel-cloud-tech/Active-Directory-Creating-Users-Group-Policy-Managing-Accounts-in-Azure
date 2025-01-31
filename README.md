@@ -1,6 +1,7 @@
 # Active-Directory-Creating-Users-Group-Policy-Managing-Accounts-in-Azure
 <p align="center">
-<img src="https://i.imgur.com/aMMGyHQ.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="![Uploading Screenshot-1-Group-Policy .png…]()
+" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
 <h1>Creating Users, Group Policy, and Managing Accounts with Active Directory in Azure</h1>
